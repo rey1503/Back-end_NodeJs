@@ -1,0 +1,5 @@
+node_modules
+database/sql.js
+Middlewares/autentic.js
+package-lock.json
+.env
